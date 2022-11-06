@@ -6,7 +6,7 @@
 2. #### Clone the repo:
     - git clone https://github.com/jy222bz/machine-learning-algorithms-and-practices.git
 3. ### Create requirements.txt:
-    - To automatically create/update the requirements.txt: `pip freeze > requirements.txt`
+    - To automatically create/update the requirements.txt, run the command line: `pip freeze > requirements.txt`
 4. ### Install dependencies:
     - To install the dependencies, run the command line: `pip install -r requirements.txt`
 5. ### The arrangement:
