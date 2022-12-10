@@ -1,6 +1,5 @@
 from sklearn.impute import SimpleImputer
 import numpy as np
-import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import LabelEncoder
 from sklearn.compose import ColumnTransformer
